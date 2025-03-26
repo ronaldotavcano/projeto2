@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.headline{
+    color: #E1624F;
+    font-weight: bold;
+    text-align: left;
+}
+
+body{
+    background-color: #29292E;
+}
+
+div{
+    background-color: #FFFFFF;
+}
+
+div p{
+    text-align: center;
+}
+
+ol{
+    text-align: left;
+}
+
+ol p{
+    text-align: left;
+}
+
+.h3{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.content{
+    font-size: 16px;
+    font-weight: normal;
+}
