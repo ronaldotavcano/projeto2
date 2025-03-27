@@ -12,13 +12,15 @@ body{
 }
 
 #page{
+    background-position: 50%;
     padding: 88px 80px 137px 80px;
-    margin: 80px;
+    margin: 80px 80px 80px 292px;
 }
 
 div{
     background-color: #FFFFFF;
     width: 1120px;
+    
 }
 
 div p{
